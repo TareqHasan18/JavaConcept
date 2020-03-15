@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff58aa79-9a2e-41e4-9277-c31b0e536180" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyJavaPractice/OOPConcept/MethodOverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcept/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcept/WrapperClassConcept.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YxtYWv26DRezFAsa9SXE4Lw2gg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcept.MethodOverloading" />
+      <module name="MyJavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodOverloading" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff58aa79-9a2e-41e4-9277-c31b0e536180" name="Default Changelist" comment="" />
+      <created>1583896120768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583896120768</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1584242073378">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1584242073378" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1584242073377">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1584242073377" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1584242073376">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1584242073376" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1584242073377">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1584242073377" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1584238019655">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584238019655" />
+  </component>
+</project>
