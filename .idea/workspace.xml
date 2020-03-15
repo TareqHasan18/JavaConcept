@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff58aa79-9a2e-41e4-9277-c31b0e536180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyJavaPractice/OOPConcept/MethodOverloading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcept/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcept/WrapperClassConcept.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff58aa79-9a2e-41e4-9277-c31b0e536180" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,9 +78,9 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1584242073377" />
-    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1584238019655">
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1584242086894">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584238019655" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584242086894" />
   </component>
 </project>
